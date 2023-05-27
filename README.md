@@ -16,10 +16,10 @@ FakeCompany Plc is an SaaS B2B company that provides ground-breaking analysis of
 
 FakeCompany Plc's Client Support team 
 
-Due to the large annual subscription fee that each client pays, the users expect top-notch, fast and when they contact the Client Support team with issues. As such, it is incredibly important that the Client Support team manage and track key KPIs to ensure that they maintain the level of service expected of them. 
+Due to the large annual subscription fee that each client pays, the client's users expect top-notch, fast and whenever they contact the Client Support team with issues. As such, it is incredibly important that the Client Support team manage and track key KPIs to ensure that they maintain the level of service expected of them. 
 
 The Client Support team uses a 3rd party service called FreshService to manage, track and respond to incoming ticket requests from clients. 
-Using FreshService's [REST API](https://api.freshservice.com/), the team can fetch key data . The report in this project is built on data that may be obtained from the REST API. 
+Using FreshService's [REST API](https://api.freshservice.com/), the team can fetch key data . The report below is built on data that may be obtained from the REST API. 
 
 ## The PowerBI Report 
 
