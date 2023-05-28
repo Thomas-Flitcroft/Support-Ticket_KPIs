@@ -58,7 +58,7 @@ This page allows users to find statistics
 
 - For each company in the list, I then generated a list of fake 'users' that may contact Fake Company Plc's Client Support Team. This is done using the Python script ```generate_users.py```, which uses the [Faker](https://faker.readthedocs.io/en/master/) library to generate fake, localized names of the users.
 
-- 
+- Then the 
 
 - There are 5 variables that can be configured before generating the data:
   - ```start_date``` - The start day of the ticket data.
