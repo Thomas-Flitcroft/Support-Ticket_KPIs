@@ -3,6 +3,9 @@ This project is largely based on a PowerBi report that I built in my current rol
 
 The PowerBi report is used by the Client Support team to monitor and track monthly KPIs on ticket requests from users. It also allows the team to view live ticket statistics and quickly search for client specific information.
 
+![demonstration](Demo/Demo.gif)
+
+
 ## Tools and Libraries Used 
 - Webscraping was done using Python (Pandas)
 - Data generation and manipulation was done using Python (Pandas, Numpy, Faker)
@@ -19,6 +22,8 @@ The Client Support team uses a 3rd party service called FreshService to manage, 
 The report consists of 3 pages:
 
 ### 1. Support Dashboard
+
+![support_dashboard](Demo/support_dashboard.png)
 This page allows users to view summary data abut the Client Support tickets, as well as high priority KPIs such as:  
 - Resolution times 
 - Response times
@@ -28,7 +33,10 @@ This page allows users to view summary data abut the Client Support tickets, as 
 - Date slider to select KPI date range (e.g Annual, Monthly etc).
 - 
 
+![support_dashboard](Demo/support_dashboard.png)
 ### 2. Live Stats
+
+![live_stats](Demo/live_stats.png)
 This page allows users to view a summary of all currently active tickets.
 
 **Features:**
@@ -37,6 +45,8 @@ This page allows users to view a summary of all currently active tickets.
 - Table highlighting current 'High' and 'Urgent' priority tickets.
 
 ### 3. Stats By Client
+
+![stats_by_client](Demo/stats_by_client.png)
 This page allows users to view summary data abut the Client Support tickets specific to individual clients. 
 
 **Features:**
