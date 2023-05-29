@@ -3,6 +3,7 @@ This project is largely based on a PowerBi report that I built in my current rol
 
 The PowerBi report is used by the Client Support team to monitor and track monthly KPIs on ticket requests from users. It also allows the team to view live ticket statistics and quickly search for client specific information.
 
+Note: As I am unable to use the real data from my firm, I have used Python to generate a 'realistic' set of fake data to use in the report.  
 ![demonstration](Demo/demo.gif)
 
 
@@ -14,7 +15,7 @@ The PowerBi report is used by the Client Support team to monitor and track month
 ## Narrative
 FakeCompany Plc is an SaaS B2B company that provides ground-breaking analysis of their client's sales data to help guide the client's business decisions and ultimately drive success. The clients are made up of top worldwide companies, such as Amazon, Alphabet and Apple. 
 
-FakeCompany Plc's Client Support team acts as the first line of support for clients to contact when they have issues. Due to the large annual subscription fee that each client pays, the client's users expect top-notch, fast and whenever they contact the Client Support team. As such, it is incredibly important that the Client Support team manage and track key KPIs to ensure that they maintain the level of service expected of them. 
+FakeCompany Plc's Client Support team acts as the first line of support for clients to contact when they have issues. Due to the large annual subscription fee that each client pays, the client's users expect top-notch, fast and effective support whenever they contact the Client Support team. As such, it is incredibly important that the Client Support team manage and track key KPIs to ensure that they maintain the level of service expected of them. 
 
 The Client Support team uses a 3rd party service called FreshService to manage, track and respond to incoming ticket requests from clients. Using FreshService's [REST API](https://api.freshservice.com/), the team can fetch key data about all historical tickets received/handled by the team. The report below is built on data obtained from the REST API. 
 
