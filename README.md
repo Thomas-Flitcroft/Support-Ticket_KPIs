@@ -3,7 +3,7 @@ This project is largely based on a PowerBi report that I built in my current rol
 
 The PowerBi report is used by the Client Support team to monitor and track monthly KPIs on ticket requests from users. It also allows the team to view live ticket statistics and quickly search for client specific information.
 
-![demonstration](Demo/Demo.gif)
+![demonstration](Demo/demo.gif)
 
 
 ## Tools and Libraries Used 
