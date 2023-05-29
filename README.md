@@ -64,7 +64,7 @@ This page allows users to view summary data abut the Client Support tickets spec
 
 - Firstly, we need to generate a list of fake clients for FakeCompany Plc. This is done using the Python script ```scraper.py``` to scrape a list of the top 100 companies in the US from this Wikipedia article: [https://en.wikipedia.org/wiki/List\_of\_largest\_companies\_in\_the\_United\_States\_by\_revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue).
 
-- For each company in the list, I then generated a list of fake 'users' that may contact Fake Company Plc's Client Support Team. This is done using the Python script ```generate_users.py```, which uses the [Faker](https://faker.readthedocs.io/en/master/) library to generate fake, localized names of the users. The final dataset can be seen [here](Data/"03_tickets.csv")
+- For each company in the list, I then generated a list of fake 'users' that may contact Fake Company Plc's Client Support Team. This is done using the Python script ```generate_users.py```, which uses the [Faker](https://faker.readthedocs.io/en/master/) library to generate fake, localized names of the users. The final dataset can be seen [here](Data/03_tickets.csv)
 
 - Then, the dataset of fake tickets is generated using the Python Script ```generate_tickets.py```. For each date, a random number of tickets is created. 
   - There are 5 variables that can be configured before generating the data:
