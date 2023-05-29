@@ -32,8 +32,8 @@ This page allows users to view summary data abut the Client Support tickets, as 
 
 **Features:**
 - Date slider to select KPI date range (e.g Annual, Monthly etc).
-- 
-
+- Hover over graphs to see ticket information. 
+- Gauges to track average resolution/response times and their targets.
 
 ### 2. Live Stats
 
@@ -45,6 +45,7 @@ This page allows users to view a summary of all currently active tickets.
 
 - Live count of active tickets and their priority/status.
 - Table highlighting current 'High' and 'Urgent' priority tickets.
+- Hover over graphs to see ticket information. 
 
 ### 3. Stats By Client
 
@@ -55,6 +56,7 @@ This page allows users to view summary data abut the Client Support tickets spec
 **Features:**
 - Date slider to select date range.
 - Slider to select specific company/client. 
+- Hover over graphs to see ticket information. 
 
 ## Generating the data
 
@@ -62,13 +64,30 @@ This page allows users to view summary data abut the Client Support tickets spec
 
 - For each company in the list, I then generated a list of fake 'users' that may contact Fake Company Plc's Client Support Team. This is done using the Python script ```generate_users.py```, which uses the [Faker](https://faker.readthedocs.io/en/master/) library to generate fake, localized names of the users.
 
-- Then the 
+- Then, the dataset of fake tickets is generated using the Python Script ```generate_tickets.py```. For each date, a random number of tickets is created. 
+  - There are 5 variables that can be configured before generating the data:
+    - ```start_date``` - The start day of the ticket data.
+    - ```end_date``` - The final day of the ticket data. (No tickets will be generated after this date)
+    - ```avg_daily_tickets``` - The number of tickets to be generated each day on average. 
+    - ```weekend_multiplier``` - Reduce the number of tickets generated on Saturday and Sunday. E.g 0.1 means 10% of the normal ticket count will be generated on weekends. 
 
-- There are 5 variables that can be configured before generating the data:
-  - ```start_date``` - The start day of the ticket data.
-  - ```end_date``` - The final day of the ticket data. (No tickets will be generated after this date)
-  - ```avg_daily_tickets``` - The number of tickets to be generated each day on average. 
-  - ```weekend_multiplier``` - Reduce the number of tickets generated on Saturday and Sunday. E.g 0.1 means 10% of the normal ticket count will be generated on weekends. 
+- Each ticket is generated with the following information: 
+  - ```User ID ``` - The ID of the user that sent the ticket.
+  - ```Ticket ID ``` - The Ticket ID.
+  - ```Opened Date``` - The date/time that the ticket is created.
+  - ```Priority``` - The (Low/Medium/High/Urgent)
+  - ```First Response Time``` - How long it took the Client Support team to send their initial response to the user (Blank if not yet responded). 
+  - ```First Response Date``` - The date that the Client Support team sent their initial response to the user (Blank if not yet responded). 
+  - ```Resolution Time``` - How long it took the Client Support team to close the ticket (Blank if not yet closed). 
+  - ```Resolved Date``` - The date that the Client Support team closed the ticket (Blank if not yet closed). 
+  - ```Status``` - The status of the ticket:
+      - 1. Open - Not yet reviewed by the team.
+      - 2. In progress - Currently being worked on by the team.
+      - 3. Pending - Awaiting further information from the user. 
+      - 4. Escalated - Escalated internally to the next level of support. 
+  - ```Subject``` - The Subject of the initial ticket email. 
+  - ```Happiness Rating``` - The rating feedback given by the user (Unhappy, Neutral, Happy) (Blank if ticket not yet closed). 
+
 
 ## Usage
 
