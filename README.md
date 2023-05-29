@@ -23,7 +23,8 @@ The report consists of 3 pages:
 
 ### 1. Support Dashboard
 
-![support_dashboard](Demo/support_dashboard.png)
+![support_dashboard](Demo/support_dashboard.PNG)
+
 
 This page allows users to view summary data abut the Client Support tickets, as well as high priority KPIs such as:  
 - Resolution times 
@@ -37,7 +38,7 @@ This page allows users to view summary data abut the Client Support tickets, as 
 
 ### 2. Live Stats
 
-![live_stats](Demo/live_stats.png)
+![live_stats](Demo/live_stats.PNG)
 
 This page allows users to view a summary of all currently active tickets.
 
@@ -49,7 +50,7 @@ This page allows users to view a summary of all currently active tickets.
 
 ### 3. Stats By Client
 
-![stats_by_client](Demo/stats_by_client.png)
+![stats_by_client](Demo/stats_by_client.PNG)
 
 This page allows users to view summary data abut the Client Support tickets specific to individual clients. 
 
