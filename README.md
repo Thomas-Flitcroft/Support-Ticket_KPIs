@@ -29,7 +29,8 @@ The report consists of 3 pages:
 This page allows users to view summary data abut the Client Support tickets, as well as high priority KPIs such as:  
 - Resolution times 
 - Response times
-- Customer satsifcation etc)
+- Customer satsifcation 
+- Etc.
 
 **Features:**
 - Date slider to select KPI date range (e.g Annual, Monthly etc).
