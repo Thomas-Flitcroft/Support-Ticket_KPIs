@@ -1,0 +1,301 @@
+First_Name,Last_Name,Country,ID,Company,Email
+Alfred,Hethur,Germany,00001,Costco,ah@costco.com
+Édith,Leblanc,France,00002,Dell Technologies,eleblanc@delltechnologies.com
+Elsbeth,Rörricht,Germany,00003,Valero Energy,erorricht@valeroenergy.com
+Walentina,Döring,Germany,00004,Fannie Mae,wd@fanniemae.com
+Luca,Pereira,Portugal,00005,Bank of America,lucapereira@bankofamerica.com
+Melissa,Stumpf,Germany,00006,The Home Depot,melissastumpf@thehomedepot.com
+Raymond,Navarro,France,00007,Berkshire Hathaway,rnavarro@berkshirehathaway.com
+Jafet,Águila,Spain,00008,Apple,ja@apple.com
+Susan,Weinhold,Germany,00009,Amazon,sw@amazon.com
+Benedita,Magalhães,Portugal,00010,Verizon Communications,bmagalhaes@verizoncommunications.com
+Joaquim,Cruz,Portugal,00011,Cardinal Health,joaquimcruz@cardinalhealth.com
+Fito,Mínguez,Spain,00012,Costco,fminguez@costco.com
+José,Amorim,Portugal,00013,Centene,jamorim@centene.com
+Leandro,Nogueira,Portugal,00014,Target Corporation,ln@targetcorporation.com
+Yuridia,Camarillo,Mexico,00015,Marathon Petroleum,yc@marathonpetroleum.com
+Klaas,Wesack,Germany,00016,Wells Fargo,kw@wellsfargo.com
+Viman,Utami,India,00017,General Motors,vimanutami@generalmotors.com
+Luz,Frutos,Spain,00018,Target Corporation,lfrutos@targetcorporation.com
+Bozena,Klemm,Germany,00019,Costco,bk@costco.com
+Dadap,Laksmiwati,India,00020,Alphabet,dl@alphabet.com
+Noël,Launay,France,00021,General Motors,nlaunay@generalmotors.com
+Teddy,Usada,India,00022,Meta Platforms,tu@metaplatforms.com
+Vítor,Garcia,Portugal,00023,UnitedHealth Group,vgarcia@unitedhealthgroup.com
+Francesca,Williams,United Kingdom,00024,United Parcel Service,fw@unitedparcelservice.com
+Dawn,Cook,United Kingdom,00025,AT&T,dc@att.com
+Fabian,Mohaupt,Germany,00026,Phillips 66,fmohaupt@phillips66.com
+Paulette,Grégoire,France,00027,United Parcel Service,pg@unitedparcelservice.com
+Noël,Tessier,France,00028,Ford Motor Company,noeltessier@fordmotorcompany.com
+José Carlos,Otero,Mexico,00029,General Motors,jotero@generalmotors.com
+Lisandro,Oliveira,Portugal,00030,Target Corporation,loliveira@targetcorporation.com
+Ikin,Firgantoro,India,00031,Microsoft,if@microsoft.com
+Octavio,Ordóñez,Mexico,00032,Marathon Petroleum,oo@marathonpetroleum.com
+Jati,Jailani,India,00033,Comcast,jj@comcast.com
+Amador,Rojas,Mexico,00034,Costco,ar@costco.com
+Melissa,Anjos,Portugal,00035,Archer Daniels Midland,manjos@archerdanielsmidland.com
+Eman,Hasanah,India,00036,Walgreens Boots Alliance,ehasanah@walgreensbootsalliance.com
+Laura,Schüler,Germany,00037,UnitedHealth Group,lauraschuler@unitedhealthgroup.com
+Germán,Regalado,Mexico,00038,AmerisourceBergen,germanregalado@amerisourcebergen.com
+Hildegund,Weinhold,Germany,00039,Ford Motor Company,hw@fordmotorcompany.com
+José María,Apodaca,Mexico,00040,Fannie Mae,ja@fanniemae.com
+Siegmar,Blümel,Germany,00041,Chevron Corporation,sblumel@chevroncorporation.com
+Tom,Weinhold,Germany,00042,Centene,tw@centene.com
+Wasis,Budiman,India,00043,Target Corporation,wb@targetcorporation.com
+Dierk,Trüb,Germany,00044,Lowe's,dt@lowes.com
+Capucine,Perrier,France,00045,Valero Energy,cp@valeroenergy.com
+Blanca,Fonseca,Mexico,00046,Target Corporation,bf@targetcorporation.com
+Rosemarie,Stoll,Germany,00047,Walgreens Boots Alliance,rs@walgreensbootsalliance.com
+Chus,Giménez,Spain,00048,McKesson Corporation,chusgimenez@mckessoncorporation.com
+Reinhart,Stolze,Germany,00049,Humana,rstolze@humana.com
+Jelita,Widodo,India,00050,AT&T,jw@att.com
+Elias,Benítez,Mexico,00051,Johnson & Johnson,eb@johnsonjohnson.com
+Henrique,Baptista,Portugal,00052,AT&T,hbaptista@att.com
+Malgorzata,Ernst,Germany,00053,Cardinal Health,me@cardinalhealth.com
+Patricia,Letellier,France,00054,Costco,pl@costco.com
+John,Hawkins,United Kingdom,00055,Phillips 66,johnhawkins@phillips66.com
+Aurora,Agustina,India,00056,FedEx,auroraagustina@fedex.com
+Kasiyah,Usada,India,00057,Archer Daniels Midland,kasiyahusada@archerdanielsmidland.com
+Léon,Fernandes,France,00058,Johnson & Johnson,lf@johnsonjohnson.com
+Marina,Seip,Germany,00059,Marathon Petroleum,marinaseip@marathonpetroleum.com
+Lupita,Martín,Spain,00060,Cardinal Health,lupitamartin@cardinalhealth.com
+Stewart,Young,United Kingdom,00061,UnitedHealth Group,syoung@unitedhealthgroup.com
+Kai-Uwe,Rogge,Germany,00062,Dell Technologies,krogge@delltechnologies.com
+Jaime,Tavares,Portugal,00063,Verizon Communications,jt@verizoncommunications.com
+Carmelo,Tenorio,Spain,00064,CVS Health,carmelotenorio@cvshealth.com
+Diane,Parker,United Kingdom,00065,FedEx,dianeparker@fedex.com
+Angelita,Marqués,Spain,00066,Costco,am@costco.com
+Rúben,Morais,Portugal,00067,Kroger,rmorais@kroger.com
+Pranawa,Prakasa,India,00068,Cigna,pprakasa@cigna.com
+Käte,Rust,Germany,00069,CVS Health,krust@cvshealth.com
+María Carmen,Ribera,Spain,00070,Walgreens Boots Alliance,mr@walgreensbootsalliance.com
+Iván,Yáñez,Mexico,00071,Bank of America,iyanez@bankofamerica.com
+Christopher,Hargreaves,United Kingdom,00072,Phillips 66,chargreaves@phillips66.com
+Michelle,Berthelot,France,00073,Amazon,mb@amazon.com
+Lukita,Sitorus,India,00074,Alphabet,ls@alphabet.com
+Noemí,Marquez,Spain,00075,Comcast,nm@comcast.com
+Margarita,Benavídez,Mexico,00076,Apple,mb@apple.com
+Esther,Llano,Spain,00077,McKesson Corporation,ellano@mckessoncorporation.com
+Diana,Briseño,Mexico,00078,Target Corporation,db@targetcorporation.com
+Candelaria,Paz,Spain,00079,Wells Fargo,cp@wellsfargo.com
+Valerie,Wright,United Kingdom,00080,Alphabet,vwright@alphabet.com
+Baktiono,Laksmiwati,India,00081,Amazon,bl@amazon.com
+Hortense,Maillard,France,00082,Valero Energy,hmaillard@valeroenergy.com
+Joel,Nunes,Portugal,00083,Meta Platforms,jn@metaplatforms.com
+Wahyu,Puspasari,India,00084,Fannie Mae,wpuspasari@fanniemae.com
+Jay,Thomas,United Kingdom,00085,Comcast,jthomas@comcast.com
+Jérôme,Delahaye,France,00086,Wells Fargo,jeromedelahaye@wellsfargo.com
+Úrsula,Valverde,Mexico,00087,Fannie Mae,uv@fanniemae.com
+Ricky,Hardy,United Kingdom,00088,Walgreens Boots Alliance,rh@walgreensbootsalliance.com
+Baldomero,Lucena,Spain,00089,Cigna,bl@cigna.com
+Beate,Drub,Germany,00090,Amazon,bd@amazon.com
+June,Parker,United Kingdom,00091,Ford Motor Company,jp@fordmotorcompany.com
+Bethany,White,United Kingdom,00092,Phillips 66,bw@phillips66.com
+Bernabé,Meléndez,Mexico,00093,Cardinal Health,bernabemelendez@cardinalhealth.com
+Clifford,Lawrence,United Kingdom,00094,Meta Platforms,cl@metaplatforms.com
+Janet,Williams,United Kingdom,00095,Apple,janetwilliams@apple.com
+Henri,Adam,France,00096,AmerisourceBergen,hadam@amerisourcebergen.com
+Kevin,Miranda,Portugal,00097,Apple,kevinmiranda@apple.com
+Toribio,Olivares,Spain,00098,Cardinal Health,to@cardinalhealth.com
+Vincent,Mälzer,Germany,00099,Comcast,vincentmalzer@comcast.com
+Clémence,Evrard,France,00100,General Motors,clemenceevrard@generalmotors.com
+Bernadette,Albert,France,00101,Lowe's,balbert@lowes.com
+Néstor,Castelló,Spain,00102,Fannie Mae,nestorcastello@fanniemae.com
+Yves,Dos Santos,France,00103,Ford Motor Company,yd@fordmotorcompany.com
+Candrakanta,Dongoran,India,00104,Exxon Mobil,cdongoran@exxonmobil.com
+Karla,Anaya,Mexico,00105,Apple,ka@apple.com
+Nazaret,Alemany,Spain,00106,Fannie Mae,nalemany@fanniemae.com
+Ángeles,Portillo,Spain,00107,Meta Platforms,angelesportillo@metaplatforms.com
+Mia,Reis,Portugal,00108,Lowe's,mr@lowes.com
+Filipe,Guerreiro,Portugal,00109,Apple,filipeguerreiro@apple.com
+Aldonza,Vargas,Mexico,00110,Exxon Mobil,avargas@exxonmobil.com
+Alexandre,Almeida,Portugal,00111,Microsoft,alexandrealmeida@microsoft.com
+Kenneth,Nash,United Kingdom,00112,Berkshire Hathaway,kennethnash@berkshirehathaway.com
+Rolando,Montes,Mexico,00113,Walmart,rolandomontes@walmart.com
+Maria,Baptista,Portugal,00114,Walgreens Boots Alliance,mbaptista@walgreensbootsalliance.com
+Thibaut,Briand,France,00115,Archer Daniels Midland,tbriand@archerdanielsmidland.com
+Álvaro,Pinheiro,Portugal,00116,Alphabet,ap@alphabet.com
+Pia,Jailani,India,00117,Kroger,pj@kroger.com
+Margarita,Yáñez,Mexico,00118,Cigna,my@cigna.com
+Selena,Monreal,Spain,00119,Microsoft,smonreal@microsoft.com
+Adrienne,Munoz,France,00120,Exxon Mobil,am@exxonmobil.com
+Pilar,Garcia,Portugal,00121,Exxon Mobil,pg@exxonmobil.com
+Frédéric,Cousin,France,00122,Amazon,fcousin@amazon.com
+Oni,Sudiati,India,00123,Johnson & Johnson,osudiati@johnsonjohnson.com
+Antonio,Alfonso,Spain,00124,Verizon Communications,aa@verizoncommunications.com
+Karl,Wheeler,United Kingdom,00125,Valero Energy,kw@valeroenergy.com
+Ricardo,Esteves,Portugal,00126,General Motors,ricardoesteves@generalmotors.com
+David,Miranda,Portugal,00127,Marathon Petroleum,davidmiranda@marathonpetroleum.com
+Santiago,Melgar,Mexico,00128,Walgreens Boots Alliance,sm@walgreensbootsalliance.com
+Étienne,Monnier,France,00129,Chevron Corporation,em@chevroncorporation.com
+Tomás,Ribeiro,Portugal,00130,Chevron Corporation,tomasribeiro@chevroncorporation.com
+Reinaldo,Guerra,Spain,00131,AT&T,reinaldoguerra@att.com
+Janos,Hauffer,Germany,00132,Centene,jh@centene.com
+Mary,Harris,United Kingdom,00133,Cigna,mharris@cigna.com
+Rodrigo,Loureiro,Portugal,00134,Bank of America,rl@bankofamerica.com
+Ismael,Branco,Portugal,00135,Costco,ismaelbranco@costco.com
+Salomón,Miró,Spain,00136,Chevron Corporation,salomonmiro@chevroncorporation.com
+Tom,Price,United Kingdom,00137,Cardinal Health,tomprice@cardinalhealth.com
+Frédérique,Marion,France,00138,Ford Motor Company,fm@fordmotorcompany.com
+Lee,Swift,United Kingdom,00139,Microsoft,lswift@microsoft.com
+Borja,Crespo,Spain,00140,General Motors,borjacrespo@generalmotors.com
+Felix,Domínguez,Mexico,00141,McKesson Corporation,fdominguez@mckessoncorporation.com
+Rodrigo,Saucedo,Mexico,00142,Lowe's,rs@lowes.com
+Lola,Noriega,Spain,00143,Walmart,ln@walmart.com
+Frederic,Margraf,Germany,00144,McKesson Corporation,fm@mckessoncorporation.com
+Gaspar,Mendez,Spain,00145,Chevron Corporation,gm@chevroncorporation.com
+Michelle,De Sousa,France,00146,Chevron Corporation,mdesousa@chevroncorporation.com
+Claire,Rose,United Kingdom,00147,UnitedHealth Group,clairerose@unitedhealthgroup.com
+Josh,James,United Kingdom,00148,UnitedHealth Group,jj@unitedhealthgroup.com
+Billy,Price,United Kingdom,00149,Comcast,bp@comcast.com
+Arnold,Lindau,Germany,00150,Bank of America,al@bankofamerica.com
+Federico,Olivares,Mexico,00151,Cardinal Health,federicoolivares@cardinalhealth.com
+Jack,Ford,United Kingdom,00152,Microsoft,jf@microsoft.com
+Brian,Neto,Portugal,00153,Chevron Corporation,bn@chevroncorporation.com
+Edwin,Kaul,Germany,00154,AmerisourceBergen,ek@amerisourcebergen.com
+Cakrawala,Prabowo,India,00155,Valero Energy,cp@valeroenergy.com
+Sally,Walker,United Kingdom,00156,Kroger,swalker@kroger.com
+Kamil,Hertrampf,Germany,00157,Alphabet,kh@alphabet.com
+Ivan,Ramos,Portugal,00158,Archer Daniels Midland,ir@archerdanielsmidland.com
+Alexandre,Carvalho,Portugal,00159,Amazon,alexandrecarvalho@amazon.com
+Widya,Nashiruddin,India,00160,Kroger,wnashiruddin@kroger.com
+Serafín,Navarro,Mexico,00161,Dell Technologies,serafinnavarro@delltechnologies.com
+Bernabé,Tejada,Mexico,00162,Valero Energy,bt@valeroenergy.com
+Armando,Almaraz,Mexico,00163,Archer Daniels Midland,aalmaraz@archerdanielsmidland.com
+Karl-Jürgen,Sauer,Germany,00164,McKesson Corporation,ksauer@mckessoncorporation.com
+Tantri,Wijaya,India,00165,JPMorgan Chase,tw@jpmorganchase.com
+Lia,Pinho,Portugal,00166,Walmart,liapinho@walmart.com
+Manuelita,Leiva,Spain,00167,Meta Platforms,ml@metaplatforms.com
+Hans-Gerd,Ziegert,Germany,00168,Costco,hziegert@costco.com
+Noelia,Cedillo,Mexico,00169,Target Corporation,noeliacedillo@targetcorporation.com
+Octavio,Barbero,Spain,00170,Cardinal Health,obarbero@cardinalhealth.com
+Ariel,Hidalgo,Spain,00171,The Home Depot,ah@thehomedepot.com
+Elena,Ruiz,Mexico,00172,Walmart,elenaruiz@walmart.com
+Ricardo,Mata,Mexico,00173,Elevance Health,rm@elevancehealth.com
+Madalena,Batista,Portugal,00174,Meta Platforms,mb@metaplatforms.com
+Anica,Hentschel,Germany,00175,Walmart,anicahentschel@walmart.com
+Humberto,Lopez,Spain,00176,Walgreens Boots Alliance,hlopez@walgreensbootsalliance.com
+Sarah,Poole,United Kingdom,00177,Alphabet,sp@alphabet.com
+Margarita,Cavazos,Mexico,00178,Valero Energy,mc@valeroenergy.com
+Inés,Navarrete,Mexico,00179,Microsoft,inavarrete@microsoft.com
+Zelaya,Sinaga,India,00180,Verizon Communications,zs@verizoncommunications.com
+Resi,Weiß,Germany,00181,Ford Motor Company,rweiss@fordmotorcompany.com
+Argono,Hassanah,India,00182,Kroger,ah@kroger.com
+Clemente,Rodrígez,Mexico,00183,Marathon Petroleum,cr@marathonpetroleum.com
+Karen,Utami,India,00184,JPMorgan Chase,ku@jpmorganchase.com
+Alexandra,Agustín,Spain,00185,Dell Technologies,aagustin@delltechnologies.com
+Kunigunde,Hartmann,Germany,00186,Dell Technologies,kunigundehartmann@delltechnologies.com
+Luna,Campos,Portugal,00187,Meta Platforms,lc@metaplatforms.com
+Zahra,Latupono,India,00188,Meta Platforms,zl@metaplatforms.com
+Bagiya,Budiman,India,00189,JPMorgan Chase,bbudiman@jpmorganchase.com
+Madalena,Pinho,Portugal,00190,Cigna,madalenapinho@cigna.com
+Zelda,Hakim,India,00191,Phillips 66,zeldahakim@phillips66.com
+Rusman,Kuswandari,India,00192,Costco,rk@costco.com
+Vanesa,Sihombing,India,00193,Chevron Corporation,vs@chevroncorporation.com
+Caket,Wahyuni,India,00194,The Home Depot,cw@thehomedepot.com
+Océane,Poirier,France,00195,Johnson & Johnson,op@johnsonjohnson.com
+Simón,Miralles,Spain,00196,Marathon Petroleum,smiralles@marathonpetroleum.com
+Emília,Antunes,Portugal,00197,Valero Energy,eantunes@valeroenergy.com
+Bruno,Baptista,Portugal,00198,JPMorgan Chase,brunobaptista@jpmorganchase.com
+Roberta,Gordillo,Spain,00199,FedEx,rg@fedex.com
+Abel,Miramontes,Mexico,00200,Chevron Corporation,abelmiramontes@chevroncorporation.com
+Evelio,Hurtado,Mexico,00201,Verizon Communications,eh@verizoncommunications.com
+Teresa,Chan,United Kingdom,00202,Alphabet,tc@alphabet.com
+Gottlieb,Wiek,Germany,00203,United Parcel Service,gw@unitedparcelservice.com
+Citlali,Pineda,Mexico,00204,Ford Motor Company,cpineda@fordmotorcompany.com
+Lucy,Singh,United Kingdom,00205,CVS Health,lsingh@cvshealth.com
+Carlota,Esteves,Portugal,00206,Elevance Health,ce@elevancehealth.com
+Willfried,Jäkel,Germany,00207,Kroger,willfriedjakel@kroger.com
+Cecilia,Farías,Mexico,00208,FedEx,cf@fedex.com
+Anica,Trapp,Germany,00209,UnitedHealth Group,at@unitedhealthgroup.com
+Lupe,Gil,Spain,00210,Wells Fargo,lupegil@wellsfargo.com
+Melitta,Heinrich,Germany,00211,FedEx,mheinrich@fedex.com
+Omar,Ozuna,Mexico,00212,General Motors,oo@generalmotors.com
+Sigfrido,Cabrera,Spain,00213,CVS Health,sigfridocabrera@cvshealth.com
+Helmar,Wesack,Germany,00214,Cigna,hwesack@cigna.com
+Megan,Wilkins,United Kingdom,00215,CVS Health,meganwilkins@cvshealth.com
+Felix,Borrego,Spain,00216,UnitedHealth Group,fborrego@unitedhealthgroup.com
+Gilberto,Tamez,Mexico,00217,Johnson & Johnson,gtamez@johnsonjohnson.com
+Suzanne,Hill,United Kingdom,00218,Fannie Mae,suzannehill@fanniemae.com
+Fitria,Rahmawati,India,00219,Comcast,fr@comcast.com
+Fabio,Cano,Spain,00220,Humana,fc@humana.com
+Clarissa,Hendriks,Germany,00221,CVS Health,chendriks@cvshealth.com
+Martin,Prévost,France,00222,AmerisourceBergen,mprevost@amerisourcebergen.com
+Carla,Galán,Spain,00223,UnitedHealth Group,cgalan@unitedhealthgroup.com
+Ronald,Williams,United Kingdom,00224,Bank of America,ronaldwilliams@bankofamerica.com
+Marc,Stolze,Germany,00225,Ford Motor Company,marcstolze@fordmotorcompany.com
+Raquel,Santacruz,Mexico,00226,Chevron Corporation,rs@chevroncorporation.com
+Eligia,Higueras,Spain,00227,Archer Daniels Midland,ehigueras@archerdanielsmidland.com
+Christophe,Martineau,France,00228,UnitedHealth Group,christophemartineau@unitedhealthgroup.com
+Julio César,Tafoya,Mexico,00229,Apple,jt@apple.com
+Daniswara,Wulandari,India,00230,Exxon Mobil,dw@exxonmobil.com
+Sabine,Noël,France,00231,FedEx,sn@fedex.com
+Rafaela,Nunes,Portugal,00232,Verizon Communications,rn@verizoncommunications.com
+Samuel,Romero,Spain,00233,General Motors,sr@generalmotors.com
+Matias,Figueiredo,Portugal,00234,AT&T,matiasfigueiredo@att.com
+Kevin,Maia,Portugal,00235,Apple,kmaia@apple.com
+Naomi,Bennett,United Kingdom,00236,Lowe's,nb@lowes.com
+Olaf,Warmer,Germany,00237,Elevance Health,olafwarmer@elevancehealth.com
+Jaya,Saptono,India,00238,Fannie Mae,jsaptono@fanniemae.com
+Noa,Oliveira,Portugal,00239,General Motors,no@generalmotors.com
+Leyla,Henschel,Germany,00240,Lowe's,lh@lowes.com
+Leanne,Edwards,United Kingdom,00241,Walmart,ledwards@walmart.com
+Marcos,Barbosa,Portugal,00242,Meta Platforms,mbarbosa@metaplatforms.com
+Charlie,Harvey,United Kingdom,00243,Cigna,ch@cigna.com
+Eduardo,Teixeira,Portugal,00244,FedEx,eteixeira@fedex.com
+Swantje,Schweitzer,Germany,00245,Microsoft,swantjeschweitzer@microsoft.com
+Ruth,Davis,United Kingdom,00246,Kroger,rd@kroger.com
+Rendy,Hutapea,India,00247,JPMorgan Chase,rendyhutapea@jpmorganchase.com
+Raquel,Miranda,Portugal,00248,McKesson Corporation,rm@mckessoncorporation.com
+Omar,Ceballos,Mexico,00249,Comcast,oc@comcast.com
+Xavier,Simões,Portugal,00250,Costco,xs@costco.com
+Pauline,Colin,France,00251,Costco,pc@costco.com
+Stephen,Hussain,United Kingdom,00252,Elevance Health,sh@elevancehealth.com
+Eloisa,Alonso,Mexico,00253,FedEx,eloisaalonso@fedex.com
+Fabiana,Rocha,Portugal,00254,Ford Motor Company,fabianarocha@fordmotorcompany.com
+Cakrawangsa,Dabukke,India,00255,AmerisourceBergen,cakrawangsadabukke@amerisourcebergen.com
+Gerlind,Peukert,Germany,00256,Elevance Health,gerlindpeukert@elevancehealth.com
+Norma,Negrón,Mexico,00257,Chevron Corporation,nn@chevroncorporation.com
+Sara,Pereira,Portugal,00258,Berkshire Hathaway,sarapereira@berkshirehathaway.com
+Rachel,Kelly,United Kingdom,00259,Phillips 66,rkelly@phillips66.com
+Argono,Damanik,India,00260,Valero Energy,ad@valeroenergy.com
+Upik,Halim,India,00261,Marathon Petroleum,uh@marathonpetroleum.com
+Martin,Gilles,France,00262,Phillips 66,mg@phillips66.com
+Gilbert,Grégoire,France,00263,Archer Daniels Midland,gilbertgregoire@archerdanielsmidland.com
+Lourenço,Rodrigues,Portugal,00264,Walgreens Boots Alliance,lr@walgreensbootsalliance.com
+Kyara,Fonseca,Portugal,00265,Berkshire Hathaway,kyarafonseca@berkshirehathaway.com
+Caridad,Urrutia,Mexico,00266,Cardinal Health,caridadurrutia@cardinalhealth.com
+Reyes,Saura,Spain,00267,Cigna,rs@cigna.com
+Maurice,Hervé,France,00268,Comcast,mherve@comcast.com
+Roland,Martins,France,00269,Microsoft,rmartins@microsoft.com
+Alexandra,Martins,Portugal,00270,Elevance Health,amartins@elevancehealth.com
+Darman,Mandasari,India,00271,AT&T,darmanmandasari@att.com
+Elenore,Gunpf,Germany,00272,Marathon Petroleum,eg@marathonpetroleum.com
+Randolf,Trüb,Germany,00273,Kroger,rt@kroger.com
+Dennis,Bell,United Kingdom,00274,Microsoft,db@microsoft.com
+Thierry,Clément,France,00275,JPMorgan Chase,tc@jpmorganchase.com
+Jorge,Matos,Portugal,00276,FedEx,jmatos@fedex.com
+Ema,Belmonte,Spain,00277,Target Corporation,eb@targetcorporation.com
+Raúl,Chacón,Spain,00278,Kroger,rchacon@kroger.com
+Bryan,Gonçalves,Portugal,00279,Bank of America,bgoncalves@bankofamerica.com
+Guillermina,Zambrano,Mexico,00280,Alphabet,gz@alphabet.com
+Slavica,Dippel,Germany,00281,Elevance Health,sd@elevancehealth.com
+Leonor,Pinto,Portugal,00282,Apple,lpinto@apple.com
+Marie,Bouchet,France,00283,Kroger,mb@kroger.com
+Alexander,Robinson,United Kingdom,00284,The Home Depot,arobinson@thehomedepot.com
+Yasemin,Hecker,Germany,00285,CVS Health,yh@cvshealth.com
+Juan Manuel,Ferrera,Spain,00286,Humana,jf@humana.com
+Thérèse,Lecomte,France,00287,Humana,tl@humana.com
+Ibun,Yulianti,India,00288,Wells Fargo,iy@wellsfargo.com
+Freya,Gierschner,Germany,00289,Berkshire Hathaway,fg@berkshirehathaway.com
+Jose Manuel,Alcázar,Spain,00290,UnitedHealth Group,jalcazar@unitedhealthgroup.com
+Cynthia,Roskoth,Germany,00291,Valero Energy,cr@valeroenergy.com
+Débora,del Valle,Mexico,00292,Archer Daniels Midland,dd@archerdanielsmidland.com
+Tatiana,Pelayo,Spain,00293,Kroger,tatianapelayo@kroger.com
+Jono,Ramadan,India,00294,Bank of America,jramadan@bankofamerica.com
+Anne,Gautier,France,00295,Apple,annegautier@apple.com
+Alma,Llopis,Spain,00296,General Motors,almallopis@generalmotors.com
+Mark,Karge,Germany,00297,Humana,markkarge@humana.com
+Emilio,Gaytán,Mexico,00298,Johnson & Johnson,eg@johnsonjohnson.com
+Estiono,Samosir,India,00299,Johnson & Johnson,esamosir@johnsonjohnson.com
+Richard,Jones,United Kingdom,00300,Fannie Mae,rjones@fanniemae.com
